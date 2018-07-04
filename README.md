@@ -32,7 +32,10 @@ Documentation and information about use of apreca can be found in the Wiki of th
 
 Here is an active log of changes being made as we progress to the GUI-based version 2.0. You can download beta releases of version 2.0 from version-hist/betas.
 
-
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
 
 ## Usage rights
 
