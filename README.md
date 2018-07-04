@@ -16,10 +16,16 @@ The latest GUI-based apreca release can be found nowhere as it isnt released yet
 
 These table shows the release history:
 
+### Final releases
+
 | Release | Version | information |
 | --- | --- | --- |
-| final-releases |
 | **release** | v1.0 | Latest final release build - command-based - doesnt have a GUI, coming to future versions! |
+
+### Beta Releases
+
+| Release | Version | information |
+| --- | --- | --- |
 | *beta* | b2.0-1 | Development has begun on the GUI-based version of apreca! |
 | *beta* | b2.0-2 | GUI working, no functionality implemented as it is being reworked to be better by the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
 | *beta* | b2.0-3 | Functionality coming back in with even more than before! | 
@@ -32,10 +38,10 @@ Documentation and information about use of apreca can be found in the Wiki of th
 
 Here is an active log of changes being made as we progress to the GUI-based version 2.0. You can download beta releases of version 2.0 from version-hist/betas.
 
-- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
-- [x] list syntax required (any unordered or ordered list supported)
-- [x] this is a complete item
-- [ ] this is an incomplete item
+> @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+> list syntax required (any unordered or ordered list supported)
+> this is a complete item
+> this is an incomplete item
 
 ## Usage rights
 
