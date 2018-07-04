@@ -10,73 +10,29 @@ Apreca is a basic open-source python3-based web server. It grabs information fro
 
 ## The code
 
-*available in python file in the repo - just look slightly above this markdown
+The latest command-based apreca release can be found in the releases/command-rel folder of the repository.
 
-```python
-#apreca
-#a basic python3 web server
-#Written by Aaron Duce 2018
-#github.com/aaronduce
+The latest GUI-based apreca release can be found nowhere as it isnt released yet.
 
-import socket
+These table shows the release history:
 
-portno = input("Please provide a port number to host on")
-HOST, PORT = '', portno
+| Release | Version | information |
+| --- | --- | --- |
+| release | v1.0 | Latest final release build - command-based - doesnt have a GUI, coming to future versions! |
+| --- | --- | --- |
+| beta | b2.0-1 | Development has begun on the GUI-based version of apreca! |
+| beta | b2.0-2 | GUI working, no functionality implemented as it is being reworked to be better by the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
+| beta | b2.0-3 | Functionality coming back in with even more than before! | 
 
-listen_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-listen_socket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
-listen_socket.bind((HOST, PORT))
-listen_socket.listen(1)
-print 'Serving HTTP on port %s ...' % PORT
+## Documentation Base
 
-while True:
-    client_connection, client_address = listen_socket.accept()
-    request = client_connection.recv(1024)
-    print request
-
-    file = open("WebpageContents.txt", "r")
-    http_response = file.read()
-    client_connection.sendall(http_response)
-    client_connection.close()
-```
-
-## How to use your information or HTML code
-
-Apreca relies on grabbing the information it presents on the webpage from a text file called ```WebpageContents.txt```, of which you can get a sample copy of from the sample folder in the repo.
-
-The contents of this file can be as simple as just plain text, just like it can be in HTML, but the file must always start with a ```HTTP/1.1 200 OK```.
-
-If the file was to contain:
-```
-HTTP/1.1 200 OK
-
-Hello, World!
-```
-it would output ```Hello, World!``` in the client browser.
-
-Expanding on this, just like any other website, you can use HTML tags to style and format the document.
-
-For example, to put the text in a paragraph that will have it's font family as Helvetica, we could use
-
-```<p style="font-family: Helvetica;">Hello, World!</p>```
-
-Or to make the text bold, we could use
-
-```<b>Hello, World!</b>```
+Documentation and information about use of apreca can be found in the Wiki of the GitHub repository.
 
 ## Changelog
 
-### Release
+Here is an active log of changes being made as we progress to the GUI-based version 2.0. You can download beta releases of version 2.0 from version-hist/betas.
 
-```v1.0``` - Huh, I created something, and it works, so I guess you could class this as version one.
 
-### Betas
-
-```b2.0-1``` - A beta? of the new version 2? that doesnt work? yeah, you could say that.
-
-```b2.0-2``` - It 'technically' works now, so theres that, but then again none of the actual functionality is there yet.
-
-```b2.0-3``` - Functionality is trickling back in, and as usual fixing stuff that shouldnt need to be fixed but have to.
 
 ## Usage rights
 
@@ -86,7 +42,7 @@ Made something amazing? Show me at aaronduce@lymelite.co.uk
 
 ## Credits
 
-Well Sam fixed the port entry limit on the new GUI, thanks - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
+Features have been introduced from his fork of apreca to further enhance the functionality of apreca. - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
 
 ## Suggestions
 
