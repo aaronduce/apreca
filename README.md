@@ -40,10 +40,10 @@ Here is an active log of changes being made as we progress to the GUI-based vers
 
 | Task | Changes | Release |
 | --- | --- | --- |
-| - [x] | Added a GUI interface to the program | v2.0 |
-| - [X] | Added a logging system to the program - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
-| [] | Web Server network part of the program being rewritten to be better for this version - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
-| [] | Will soon be able to parse HTML files instead of the original  | v2.0 |
+| Complete | Added a GUI interface to the program | v2.0 |
+| Complete | Added a logging system to the program - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
+| Ongoing | Web Server network part of the program being rewritten to be better for this version - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
+| Pending | Will soon be able to parse HTML files instead of the original  | v2.0 |
 
 ## Usage rights
 
