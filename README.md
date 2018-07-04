@@ -18,6 +18,7 @@ These table shows the release history:
 
 | Release | Version | information |
 | --- | --- | --- |
+| final-releases |
 | **release** | v1.0 | Latest final release build - command-based - doesnt have a GUI, coming to future versions! |
 | *beta* | b2.0-1 | Development has begun on the GUI-based version of apreca! |
 | *beta* | b2.0-2 | GUI working, no functionality implemented as it is being reworked to be better by the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
