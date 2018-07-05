@@ -57,6 +57,8 @@ Made something amazing? Show me at aaronduce@lymelite.co.uk
 
 **Sam Brashaw** - Features have been introduced from his fork of apreca to further enhance the functionality of apreca - you can view his fork [here](https://github.com/sambrashaw/apreca) - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
 
-## Suggestions
+## Suggestions and issues
 
 If you have any suggestions on how I can improve Apreca to make it better, create an issue on the repo.
+
+If you have any issues with Apreca, you can also create an issue, but it is requested that you include your log file (v2.0 onwards, upgrade is recommended to this version or a later version) in your issue.
