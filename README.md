@@ -28,10 +28,10 @@ These table shows the release history:
 
 | Release | Version | information |
 | --- | --- | --- |
-| *latest-gui-beta* | gui-b1.0-4 | A new logging system has been implemented to make it easier to diagnose issues and report issues - an enhancement of that found in the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
-| *gui-beta* | gui-b1.0-3 | Functionality coming back in with even more than before! | 
-| *gui-beta* | gui-b1.0-2 | GUI working, no functionality implemented as it is being reworked to be better by the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
-| *gui-beta* | gui-b1.0-1 | Development has begun on the GUI-based version of apreca! |
+| **latest-gui-beta** | gui-b1.0-4 | A new logging system has been implemented to make it easier to diagnose issues and report issues - an enhancement of that found in the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
+| gui-beta | gui-b1.0-3 | Functionality coming back in with even more than before! | 
+| gui-beta | gui-b1.0-2 | GUI working, no functionality implemented as it is being reworked to be better by the fork by [Sam Brashaw](https://github.com/sambrashaw/apreca) | 
+| gui-beta | gui-b1.0-1 | Development has begun on the GUI-based version of apreca! |
 
 ## Documentation Base
 
