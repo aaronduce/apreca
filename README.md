@@ -55,7 +55,7 @@ Made something amazing? Show me at aaronduce@lymelite.co.uk
 
 ## Credits
 
-Features have been introduced from his fork of apreca to further enhance the functionality of apreca - you can view his fork [here](https://github.com/sambrashaw/apreca) - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
+**Sam Brashaw** - Features have been introduced from his fork of apreca to further enhance the functionality of apreca - you can view his fork [here](https://github.com/sambrashaw/apreca) - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
 
 ## Suggestions
 
