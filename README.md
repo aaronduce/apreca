@@ -1,5 +1,7 @@
 # Apreca
 
+[![Build Status](https://drone.io/github.com/shellinabox/shellinabox/status.png)](https://drone.io/github.com/shellinabox/shellinabox/latest)
+
 Apreca - (app • ree • sha)
 
 _731 bytes of open source goodness_
