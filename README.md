@@ -44,6 +44,7 @@ Here is an active log of changes being made as we progress to the GUI-based vers
 | **Complete** | Added a GUI interface to the program | v2.0 |
 | **Complete** | Added a logging system to the program - credit to [Sam Brashaw](https://github.com/sambrashaw) for his contribution of this on his fork | v2.0 |
 | *Ongoing* | Web Server network part of the program being rewritten to be better for this version - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
+| *Ongoing* | Multithreading and optimisation - credit to @sambrashaw for his contribution of this on his fork | v2.0 |
 | Pending | Will soon be able to parse HTML files instead of the original  | v2.0 |
 
 ## Usage rights
@@ -54,7 +55,7 @@ Made something amazing? Show me at aaronduce@lymelite.co.uk
 
 ## Credits
 
-Features have been introduced from his fork of apreca to further enhance the functionality of apreca. - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
+Features have been introduced from his fork of apreca to further enhance the functionality of apreca - you can view his fork [here](https://github.com/sambrashaw/apreca) - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
 
 ## Suggestions
 
