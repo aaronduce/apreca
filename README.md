@@ -1,6 +1,6 @@
 # Apreca
 
-<img src="https://img.shields.io/badge/release--version-v1.0-green.svg" /> <img src="https://img.shields.io/badge/beta--version-b2.0-4-yellow.svg" />
+<img src="https://img.shields.io/badge/release--version-v1.0-green.svg" /> <img src="https://img.shields.io/badge/beta--version-b2.0--4-yellow.svg" />
 
 Apreca - (app • ree • sha)
 
