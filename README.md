@@ -53,6 +53,12 @@ Here is an active log of changes being made as we progress to the GUI-based vers
 
 Apreca is open source, meaning you can use the code, change it, mould it into something better, basically do anything you want with it.
 
+Heres what has been done already:
+
+|Name|Repository|
+|---|---|
+|Sam Brashaws Fork|[github.com/sambrashaw/apreca](https://github.com/sambrashaw/apreca)
+
 Made something amazing? Show me at aaronduce@lymelite.co.uk
 
 ## Credits
