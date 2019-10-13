@@ -59,8 +59,6 @@ Heres what has been done already:
 |---|---|
 |Sam Brashaws Fork|[github.com/sambrashaw/apreca](https://github.com/sambrashaw/apreca)
 
-Made something amazing? Show me at aaronduce@lymelite.co.uk
-
 ## Credits
 
 **Sam Brashaw** - Features have been introduced from his fork of apreca to further enhance the functionality of apreca - you can view his fork [here](https://github.com/sambrashaw/apreca) - [GitHub](https://github.com/sambrashaw) - [Twitter](https://twitter.com/trsambrashaw)
